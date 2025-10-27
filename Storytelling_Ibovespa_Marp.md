@@ -1,28 +1,4 @@
 ---
-marp: false
-theme: default
-paginate: true
-header: "FIAP - Tech Challenge | Predição Ibovespa"
-size: 16:9
-style: |
-  section {
-    background-color: #f8f9fa;
-    color: #333;
-  }
-  h1 {
-    color: #2c3e50;
-    border-bottom: 3px solid #3498db;
-    padding-bottom: 10px;
-  }
-  h2 {
-    color: #e74c3c;
-  }
-  .highlight {
-    background-color: #fff3cd;
-    padding: 2px 8px;
-    border-radius: 3px;
-  }
----
 
 # Predição de Tendência do Ibovespa
 
@@ -33,14 +9,6 @@ style: |
 **Diferencial**: +5% acima da meta
 
 ---
-
-<!-- _class: invert -->
-<style scoped>
-section {
-  background-color: #2c3e50;
-  color: white;
-}
-</style>
 
 # Agenda da Apresentação
 
