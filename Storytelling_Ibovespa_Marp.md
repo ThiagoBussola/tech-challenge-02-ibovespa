@@ -491,19 +491,19 @@ Nosso modelo está no **topo da faixa** para predição com apenas dados interno
 
 ## Principais Conquistas
 
-### ✅ Meta Superada
+### Meta Superada
 
 - **Meta**: ≥ 75%
 - **Alcançado**: **80%**
 - **Diferencial**: **+5%** acima da meta
 
-### ✅ Robustez Comprovada
+### Robustez Comprovada
 
 - Gap treino-teste: apenas 5%
 - Teste em 25 dias reais
 - Validação temporal rigorosa
 
-### ✅ Metodologia Sólida
+### Metodologia Sólida
 
 - 178 features técnicas criadas
 - 9 modelos testados
@@ -534,7 +534,7 @@ Nosso modelo está no **topo da faixa** para predição com apenas dados interno
 
 ## Diferenciais do Projeto
 
-### 🎯 Diferenciais Técnicos
+### Diferenciais Técnicos
 
 1. **Engenharia Abrangente**
 
@@ -581,40 +581,6 @@ Nosso modelo está no **topo da faixa** para predição com apenas dados interno
 
 ---
 
-## Valor de Negócio
-
-### Com 80% de Acurácia
-
-✅ **Viável para Trading**
-
-- Day traders: Sinal adicional de entrada/saída
-- Investidores: Timing de aportes
-- Gestoras: Ajuste de exposição
-
-✅ **Aplicações Práticas**
-
-- Informar decisões de investimento
-- Combinar com análise fundamentalista
-- Automatizar sinalização de tendências
-
-⚠️ **Recomendação**
-
-- Não usar isoladamente
-- Sempre validar com outros fatores
-- Manter re-treino regular (mensal)
-
----
-
-## Conclusões Finais
-
-### ✅ Missão Cumprida
-
-- Meta de 75% **superada** em 5%
-- Modelo **robusto** e **confiável**
-- Metodologia **rigorosa** e **justificada**
-- Material **completo** para apresentação
-- Código **reprodutível** e **documentado**
-
 ### 🎓 Lições Aprendidas
 
 1. Features engineering é crucial
@@ -623,14 +589,6 @@ Nosso modelo está no **topo da faixa** para predição com apenas dados interno
 4. Simplicidade (MLP) pode superar complexidade (LSTM)
 
 ---
-
-<!-- _class: invert -->
-<style scoped>
-section {
-  background-color: #2c3e50;
-  color: white;
-}
-</style>
 
 # Obrigado!
 
