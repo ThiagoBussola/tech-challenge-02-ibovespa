@@ -1,15 +1,5 @@
 ---
 
-# Predição de Tendência do Ibovespa
-
-## Storytelling Técnico
-
-**Meta**: ≥ 75% de acurácia  
-**Resultado**: **80% alcançado** ✅  
-**Diferencial**: +5% acima da meta
-
----
-
 # Agenda da Apresentação
 
 1. **Aquisição e Exploração dos Dados**
